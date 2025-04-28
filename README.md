@@ -1,22 +1,15 @@
-# Welcome to your Lovable project
-
 ## Project info
 
-**URL**: https://lovable.dev/projects/093bd7be-6554-4233-b889-b5ade1627046
+**URL**:- https://github.com/vishal26-rai/Role-Based-Access-Control-RBAC-
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/093bd7be-6554-4233-b889-b5ade1627046) and start prompting.
-
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -71,3 +64,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+# Role-Based-Access-Control-RBAC-
+Role-Based Access Control (RBAC)  system in a blog platform
+>>>>>>> 8412cb428718055bd25447ae36e8bc48ae052653
